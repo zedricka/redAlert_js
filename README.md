@@ -22,8 +22,8 @@
 
 <h4>Your Challenge</h4>
 <ol>
-  <li>Create a sub folder named redAlert in the root of your project folder.</li>
-  <li>init git inside redAlert</li>
+  <li>Fork this repo</li>
+  <li>Inside your root folder, git clone [url] your newly forked repo found in your git account.</li>
   <li>Create an index.html page</li>
   <li>Create a js folder and an app.js file in the root of redAlert.</li>
   <li>Create a reference to your app.js file from your index.html file.</li>
