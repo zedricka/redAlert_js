@@ -24,15 +24,19 @@
 <ol>
   <li>Create a sub folder named redAlert in the root of your project folder.</li>
   <li>init git inside redAlert</li>
-  <li>Create an 'index.html' page</li>
-  <li>Create a 'js' folder and an 'app.js' file in the root of redAlert.</li>
-  <li>Create a reference to your 'app.js' file from your 'index.html' file.</li>
-  <li>Create the structure of your 'index.html' along with your '<button>' or '<a>' tag</li>
-  <li>In your app.js, write an event handler function to <b>listen</b> for the <b>onclick</b> event and use the 'alert()' method to notify the user they have clicked on the button</li>
-  <li>Don't forget to write a 'string' inside the alert() method.</li>
+  <li>Create an index.html page</li>
+  <li>Create a js folder and an app.js file in the root of redAlert.</li>
+  <li>Create a reference to your app.js file from your index.html file.</li>
+  <li>Create the structure of your index.html along with your <button> or <a> tag</li>
+  <li>In your app.js, write an event handler function to <b>listen</b> for the <b>onclick</b> event and use the alert() method to notify the user they have clicked on the button</li>
+  <li>Dont forget to write a 'string' inside the alert() method.</li>
 </ol>
 
 <h5>Extra 1 point</h5>
 <ol>
   <li>Make your alert dynamic</li>
 </ol>
+
+<h4>Resources</h4>
+<a href="http://www.w3schools.com/jsref/met_win_alert.asp">W3Schools - Alert Method</a>
+<a href="http://www.w3schools.com/jsref/event_onclick.asp">W3Schools - onclick Event </a>
