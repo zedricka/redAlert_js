@@ -34,7 +34,7 @@
 
 <h5>Extra 1 point</h5>
 <ol>
-  <li>Make your alert dynamic</li>
+  <li>Make your string alert dynamic</li>
 </ol>
 
 <h4>Resources</h4>
