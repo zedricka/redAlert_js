@@ -1,2 +1,38 @@
-<h1>Red Alert</h1>
+<h2>Red Alert</h2>
 
+<p>In this project, we will be working with basic Javascript and HTML concepts to understand how we can attach functionality to our User Interface.</p>
+
+<h4>Objective</h4>
+<p>Create a simple working application using, <b>HTML</b>, <b>JavaScript Logic</b>, <b>Envents</b> to create a button on our webpage. When the user clicks on that button, they will receive a visual indicator that they clicked the button.</p>
+
+<h4>Requirements</h4>
+<p>To complete this project you will need:</p>
+<ul>
+  <li>Sublime text</li>
+  <li>Chrome</li>
+</ul>
+
+<h4>Desired Outcome</h4>
+<p>at the completion of this exercise, you should understand:</p>
+<ul>
+  <li>HTML elements</li>
+  <li>Javascript Even Handling</li>
+  <li>the alert() browser function</li>
+</ul>
+
+<h4>Your Challenge</h4>
+<ol>
+  <li>Create a sub folder named redAlert in the root of your project folder.</li>
+  <li>init git inside redAlert</li>
+  <li>Create an 'index.html' page</li>
+  <li>Create a 'js' folder and an 'app.js' file in the root of redAlert.</li>
+  <li>Create a reference to your 'app.js' file from your 'index.html' file.</li>
+  <li>Create the structure of your 'index.html' along with your '<button>' or '<a>' tag</li>
+  <li>In your app.js, write an event handler function to <b>listen</b> for the <b>onclick</b> event and use the 'alert()' method to notify the user they have clicked on the button</li>
+  <li>Don't forget to write a 'string' inside the alert() method.</li>
+</ol>
+
+<h5>Extra 1 point</h5>
+<ol>
+  <li>Make your alert dynamic</li>
+</ol>
