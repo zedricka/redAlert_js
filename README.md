@@ -45,5 +45,8 @@
 </ol>
 
 <h4>Resources</h4>
-<a href="http://www.w3schools.com/jsref/met_win_alert.asp">W3Schools - Alert Method</a>
-<a href="http://www.w3schools.com/jsref/event_onclick.asp">W3Schools - onclick Event </a>
+<ul>
+  <li><a href="http://www.w3schools.com/jsref/met_win_alert.asp">W3Schools - Alert Method</a></li>
+  <li><a href="http://www.w3schools.com/jsref/event_onclick.asp">W3Schools - onclick Event</a></li>
+</ul>
+
