@@ -3,7 +3,7 @@
 <p>In this project, we will be working with basic Javascript and HTML concepts to understand how we can attach functionality to our User Interface.</p>
 
 <h4>Objective</h4>
-<p>Create a simple working application using, <b>HTML</b>, <b>JavaScript Logic</b>, <b>Envents</b> to create a button on our webpage. When the user clicks on that button, they will receive a visual indicator that they clicked the button.</p>
+<p>Create a simple working application using, <b>HTML</b>, <b>JavaScript Logic</b>, <b>Events</b> to create a button on our webpage. When the user clicks on that button, they will receive a visual indicator that they clicked the button.</p>
 
 <h4>Requirements</h4>
 <p>To complete this project you will need:</p>
@@ -16,8 +16,15 @@
 <p>at the completion of this exercise, you should understand:</p>
 <ul>
   <li>HTML elements</li>
-  <li>Javascript Even Handling</li>
+  <li>Javascript Event Handling</li>
   <li>the alert() browser function</li>
+</ul>
+
+<h4>New concepts</h4>
+<ul>
+  <li>Event handling</li>
+  <li>Browser functions</li>
+  <li>Linking js externally inside an HTML doc</li>
 </ul>
 
 <h4>Your Challenge</h4>
